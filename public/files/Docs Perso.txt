@@ -1,0 +1,17 @@
+
+
+- Télécharger TUTO UPLOAD IMAGE NODE JS REACT JS MYSQL
+- Télécharger TUTO Infinite Loading 
+- Confirm compte with email, Node js express
+- Télécharger Node js Websocket arduino
+
+A faire :
+
+- APP RECOURS : - assurer le login selon le rôle.
+- Jeankins
+- Toute sorte de tests
+- Fonctionnement v8
+- SCHEDUL
+Apprendre le REACT NATIVE.
+
+
